@@ -1,4 +1,4 @@
-Licence : MIT open source
+Licence : GNU Lesser General Public licensce
 
 Code: Python 3.7
 
